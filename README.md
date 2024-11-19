@@ -2,16 +2,7 @@
 ## Introduction
 This project is an example using the CrewAI framework to automate the process of planning a trip if you are in doubt between different options. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 
-By [@joaomdmoura](https://x.com/joaomdmoura)
 
-- [CrewAI Framework](#crewai-framework)
-- [Running the script](#running-the-script)
-- [Details & Explanation](#details--explanation)
-- [Using GPT 3.5](#using-gpt-35)
-- [Using Local Models with Ollama](#using-local-models-with-ollama)
-- [Contributing](#contributing)
-- [Support and Contact](#support-and-contact)
-- [License](#license)
 
 ## CrewAI Framework
 CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to choose between different of cities and put together a full itinerary for the trip based on your preferences.
@@ -92,4 +83,4 @@ def local_expert(self):
 - **Performance**: Depending on your setup, local models can offer performance benefits, especially in terms of latency.
 
 ## License
-This project is released under the MIT License.
+
